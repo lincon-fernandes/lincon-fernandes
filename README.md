@@ -1,16 +1,16 @@
-### Hi there 👋
+# Sobre mim
 
-<!--
-**lincon-fernandes/lincon-fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá eu me chamo Lincon, sou um programador iniciante, estudo como autodidata e desejo me tornar um desenvolvedor fullstack, sou vestibulando para Analize e Desenvolvimento de Sistemas(UFPR)
+<tr style="margin-bottom:1px solid">
+  # ferramentas e linguagens
+  
+  <a><img src='https://img.shields.io/badge/code-html-green' /></a> 
+  <a><img src='https://img.shields.io/badge/code-css-green' /></a> 
+  <a><img src='https://img.shields.io/badge/code-javaScript-green' /> </a>
+  
+  <a><img src='https://img.shields.io/badge/framework-reactJs-orange' /></a>
+  <a><img src='https://img.shields.io/badge/framework-NesxJs-orange' /></a>
+  
+  <a><img src='https://img.shields.io/badge/library-tailwind-blue' /> </a>
+  <a><img src='https://img.shields.io/badge/library-styledComponents-blue' /> </a>
+  <a><img src='https://img.shields.io/badge/library-materialUI-blue' /> </a>
