@@ -1,6 +1,6 @@
 # Sobre mim
 
-Olá eu me chamo Lincon, sou um programador iniciante, estudo como autodidata e desejo me tornar um desenvolvedor fullstack, sou vestibulando para Analize e Desenvolvimento de Sistemas(UFPR)
+Olá eu me chamo Lincon e sou um programador iniciante, sou autodidata, mas também pretendo cursar análise e desenvolvimento de sistemas, dentre as tecnologias que mais estudo pode-se destacar React.js e Next.js, outras tecnologias que podem ser citadas em alguns projetos são: MongoDB, TypeScript, Angular, MaterialUI e Tailwind.
 <tr style="margin-bottom:1px solid">
   # ferramentas e linguagens
   
